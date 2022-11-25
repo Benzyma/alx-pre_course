@@ -1,2 +1,1 @@
-Hi👋, I am Ebenezer, a ALX student 
-My first readme
+Hi👋, I am Ebenezer, a ALX student. This is My first readme
